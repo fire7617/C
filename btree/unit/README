@@ -1,0 +1,7 @@
+2010/07/06:
+   complete the write2File and read2file function 
+   and add the info struct to record the information
+   of the btree.
+
+2010/07/11:
+    Node_loaded,info struct build, but still modify
